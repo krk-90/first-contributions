@@ -425,6 +425,7 @@ dehdlhl
 - [Cherry-uu](https://github.com/Cherry-uu)-First Contribution Yayyyy.
 - [Bala Saastha B](https://github.com/bbs-669) - My first open-source contribution! Woohoo
 - [boob-min]-Begin begin
+- [kaushik](https://github.com/krk-90) - My first open-source contribution, very excited.
 - [Shikaru0](https://github.com/Shikaru0)
 - [Double](https://github.com/Double2007) - Let's see what can happen
 - [TheDraz](https://github.com/TheDraz) - ok claude pls finish and make no mistakes
